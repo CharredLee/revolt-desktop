@@ -31,7 +31,7 @@ Get Revolt Desktop up and running locally.
 
 ```
 git clone https://github.com/CharredLee/revolt-desktop
-cd desktop
+cd revolt-desktop
 yarn
 yarn build:bundle
 yarn start
